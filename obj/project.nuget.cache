@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lrr0W09anxxFaIpBS2O1xjOta8A076skAUF7lRAM1XP0Dbl9XX86h7aLpy0BAVoh88x2KLqei61hrfefWYEIKg==",
+  "success": true,
+  "projectFilePath": "/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/PancakeViewRepro.csproj",
+  "expectedPackageFiles": [
+    "/Users/bramin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/bramin/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/bramin/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/bramin/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/bramin/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "/Users/bramin/.nuget/packages/xamarin.forms.pancakeview/2.3.0.752-beta/xamarin.forms.pancakeview.2.3.0.752-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

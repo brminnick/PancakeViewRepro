@@ -1,0 +1,11 @@
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/bin/Debug/netstandard2.1/PancakeViewRepro.deps.json
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/bin/Debug/netstandard2.1/PancakeViewRepro.dll
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/bin/Debug/netstandard2.1/ref/PancakeViewRepro.dll
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/bin/Debug/netstandard2.1/PancakeViewRepro.pdb
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/obj/Debug/netstandard2.1/PancakeViewRepro.csprojAssemblyReference.cache
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/obj/Debug/netstandard2.1/PancakeViewRepro.AssemblyInfoInputs.cache
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/obj/Debug/netstandard2.1/PancakeViewRepro.AssemblyInfo.cs
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/obj/Debug/netstandard2.1/PancakeViewRepro.csproj.CoreCompileInputs.cache
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/obj/Debug/netstandard2.1/PancakeViewRepro.dll
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/obj/Debug/netstandard2.1/ref/PancakeViewRepro.dll
+/Users/bramin/GitHub/PancakeViewRepro/PancakeViewRepro/obj/Debug/netstandard2.1/PancakeViewRepro.pdb
